@@ -1,0 +1,18 @@
+.App
+{
+  width:100%;
+}
+
+.boton-credito
+{
+  width:100%;
+}
+
+.contenedor-cuotafija
+{
+  border:1px solid rgb(189, 189, 189);
+  border-radius: 5px;
+  padding:1rem 0;
+  margin: 2rem 25%;
+  font-size: 20px;
+}
